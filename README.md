@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Onur</h2>
-<p>I'm currently a Project Manager & Developer at <strong><a href="https://www.evonagames.com/">Evona Games</a></strong> and Founder of <strong><a href="https://www.dualholding.net/">Dual Holding</a></strong> based in Turkey. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Bhutan in HOI4.</p>
+<p>I'm currently a Founder at <strong><a href="https://www.evonagames.com/">Evona Games</a></strong> and also Founder of <strong><a href="https://www.dualholding.net/">Dual Holding</a></strong> based in Turkey. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Bhutan in HOI4.</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
