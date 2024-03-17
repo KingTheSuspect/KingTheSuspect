@@ -8,5 +8,5 @@
 <li>👨‍💻 Most of our projects & games are available on <a href="https://evonagames.com">Evona Games</a>.</li>
 <li>📝 I <del>regulary</del> write devlogs on <a href="https://evonagames.com">my blog</a>.</li>
 <li>💬 Ping me about <strong>C#, Python, JS, and web developement</strong>.</li>
-<li>🎉 Fun Fact: I wanna live without technology。</li>
+<li>🎉 Fun Fact: I want to live a life without technology。</li>
 </ul>
