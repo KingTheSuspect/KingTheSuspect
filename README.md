@@ -6,7 +6,7 @@
 <li>🔭 I’m currently working on <a href="https://store.steampowered.com/app/2769160/Unheil/">Unheil</a>.</li>
 <li>🧐 Learning about <strong>Rust</strong>, <strong>C++</strong>, and a bit of <strong>Dart</strong>.</li>
 <li>👨‍💻 Most of our projects & games are available on <a href="https://evonagames.com">Evona Games</a>.</li>
-<li>📝 I <del>regulary</del> write devlogs on <a href="https://evonagames.com">my blog</a>.</li>
+<li>📝 I <del>regulary</del> never write devlogs on <a href="https://evonagames.com">my website</a>.</li>
 <li>💬 Ping me about <strong>C#, Python, JS, and web developement</strong>.</li>
 <li>🎉 Fun Fact: I want to live a life without technology。</li>
 </ul>
