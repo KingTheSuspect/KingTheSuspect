@@ -8,5 +8,5 @@
 <li>👨‍💻 Most of our projects & games are available on <a href="https://evonagames.com">Evona Games</a>.</li>
 <li>💻 I love writing code and learn anythings about it</li>
 <li>💬 Ping me about <strong>C#, Python, JS, and web developement</strong>.</li>
-<li>📫 How to reach me: onurcemdemir0@gmail.com。</li>
+<li>📫 How to reach me: <a href=" mailto:onurcemdemir0@gmail.com">onurcemdemir0@gmail.com</a> </li>
 </ul>
