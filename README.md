@@ -13,4 +13,5 @@
 💬 Ping me about <strong>C#, Python, JS, and web developement</strong>.
 <br>
 📫 How to reach me: <a href="mailto: onurcemdemir0@gmail.com">onurcemdemir0@gmail.com</a> </p>
+<h2 align = center>🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
