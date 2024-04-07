@@ -28,5 +28,4 @@
 <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="vscode" width="40" height="40" style="max-width: 100%;"></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingTheSuspect&layout=compact)
 
