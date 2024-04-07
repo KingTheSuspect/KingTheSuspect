@@ -27,5 +27,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="vscode" width="40" height="40" style="max-width: 100%;"></p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="vscode" width="40" height="40" style="max-width: 100%;"></p>
+
 
 
