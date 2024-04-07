@@ -14,4 +14,5 @@
 <br>
 📫 How to reach me: <a href="mailto: onurcemdemir0@gmail.com">onurcemdemir0@gmail.com</a> </p>
 <h2 align = center>🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;">
 
